@@ -21,4 +21,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'activemodel', rails_version
   s.add_dependency 'coffee-rails'
   s.add_dependency 'sprockets-rails'
+  s.add_dependency 'sqlite3'
 end
