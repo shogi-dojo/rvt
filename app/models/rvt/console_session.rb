@@ -1,6 +1,3 @@
-require 'sqlite3'
-require 'active_model'
-
 module RVT
   # Manage and persist (in SQLite3) RVT::Slave instances.
   class ConsoleSession
